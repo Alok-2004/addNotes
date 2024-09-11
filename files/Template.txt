@@ -1,0 +1,1 @@
+This Express.js application provides a file management website. Users can view, create, and edit text files stored in a server directory. The website features routes for listing files, displaying content, editing filenames, and creating new files. It uses EJS for rendering dynamic HTML pages.
